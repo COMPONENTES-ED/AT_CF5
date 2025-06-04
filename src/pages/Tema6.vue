@@ -93,7 +93,8 @@
         <h2>6.2 Configuración de <i>hardware</i> y <i>software</i></h2>
       </div>
       <p>
-        El primer paso para implementar el sistema IoT es configurar el Hardware
+        El primer paso para implementar el sistema IoT es configurar el
+        <em>Hardware</em>
         y conectar los componentes. A continuación, se describe el proceso de
         configuración:
       </p>
@@ -127,9 +128,9 @@
               Una vez que el sensor esté conectado, configura el
               microcontrolador para leer los datos del sensor y prepararlos para
               su transmisión a la nube. Para ello, es necesario programar el
-              microcontrolador utilizando el Software Arduino IDE, que incluye
-              bibliotecas para el sensor DHT y para conectarse a plataformas en
-              la nube.
+              microcontrolador utilizando el <em>Software</em> Arduino IDE, que
+              incluye bibliotecas para el sensor DHT y para conectarse a
+              plataformas en la nube.
             </p>
           </div>
         </div>
@@ -146,8 +147,8 @@
         <h2>6.3 Programación del microcontrolador y envío de datos</h2>
       </div>
       <p>
-        Una vez configurado el Hardware, el siguiente paso es programar el
-        microcontrolador para que lea los datos del sensor y los envíe a la
+        Una vez configurado el <em>Hardware</em>, el siguiente paso es programar
+        el microcontrolador para que lea los datos del sensor y los envíe a la
         plataforma en la nube. A continuación se detallan los pasos clave:
       </p>
       <TabsC class="color-acento-contenido mb-5">

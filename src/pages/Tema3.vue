@@ -128,7 +128,7 @@
                 para redes de baja ancho de banda y dispositivos de bajo
                 consumo. MQTT emplea un modelo de comunicación de
                 publicación/suscripción, en el cual los dispositivos publican
-                datos a un servidor (broker) que los distribuye a los
+                datos a un servidor (<em>broker</em>) que los distribuye a los
                 dispositivos que están suscritos a esos datos. Este modelo es
                 altamente escalable y confiable, lo que lo hace adecuado para
                 aplicaciones de IoT en entornos productivos donde se requiere
@@ -155,7 +155,7 @@
                   ><span
                     ><b>Aplicaciones típicas:</b> gestión de datos en
                     plataformas en la nube, automatización industrial, monitoreo
-                    en tiempo rea</span
+                    en tiempo real</span
                   >
                 </li>
               </ul>
@@ -175,7 +175,7 @@
               <h5>ZigBee</h5>
               <p>
                 Es un protocolo de comunicación de corto alcance y bajo consumo
-                de energía, diseñado para redes de sensores de IoT. Opera en la
+                de energía, diseñado para redes de sensores de IoT. Opéra en la
                 banda de frecuencia de 2.4 GHz y permite la creación de redes de
                 malla, en las cuales los dispositivos pueden comunicarse entre
                 sí para extender el rango de cobertura. ZigBee es ideal para
@@ -248,7 +248,7 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    >Alta velocidad de transferencia de datos, ideal para
+                    ><b>Alta velocidad de transferencia de datos</b>, ideal para
                     aplicaciones que requieren gran ancho de banda.</span
                   >
                 </li>

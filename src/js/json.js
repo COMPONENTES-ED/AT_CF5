@@ -54,7 +54,8 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Principales variables de control en procesos productivos',
+            titulo:
+              'Importancia de monitoreo de variables en procesos productivos',
             hash: 't_2_1',
           },
           {
@@ -74,7 +75,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tecnologías de comunicación para IoT',
+        titulo: 'Gestión de bases de datos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -265,7 +266,7 @@ export default {
     Name:
       'Implementación de IoT en la gestión de procesos productivos automatizados',
     Description:
-      'Este componente formativo introduce el uso del IoT en procesos productivos automatizados para agroindustria y agricultura. Cubre tecnologías clave para recopilar, monitorear y analizar datos en tiempo real mediante sensores IoT, configurando sistemas, integrando LoRaWAN y aplicando protocolos de comunicación en la nube. Combina teoría y práctica para mejorar eficiencia y sostenibilidad en estos entornos.',
+      'Este componente formativo introduce el uso del IoT en procesos productivos automatizados para agroindustria y agricultura. Cubre tecnologías clave para recopilar, monitorear y analizar datos en tiempo real mediante sensores IoT, configurando sistemas, integrando LoRaWAN y aplicando protocolos de comunicación en la nube. Combina teoría y práctica para mejorar la eficiencia y la sostenibilidad en estos entornos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

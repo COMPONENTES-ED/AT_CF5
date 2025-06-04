@@ -340,7 +340,7 @@
                   <i class="fas fa-check-circle color1"></i
                   ><span
                     >Integración con otras soluciones de Google para
-                    inteligencia artificial
+                    inteligencia artificial.
                   </span>
                 </li>
               </ul>
@@ -415,7 +415,7 @@
             <div titulo="Acceso y gestión remota">
               La conectividad en la nube permite a los usuarios acceder y
               gestionar datos desde cualquier lugar, facilitando la supervisión
-              y control de los sistemas IoT en tiempo real. sistema.
+              y control de los sistemas IoT en tiempo real.
             </div>
             <div titulo="Escalabilidad">
               Las plataformas en la nube pueden manejar grandes volúmenes de

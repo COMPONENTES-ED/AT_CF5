@@ -15,7 +15,7 @@
           <div class="col-lg-auto"><img class="img-a img-t" src="@/assets/curso/temas/2.png" alt=""/></div>
           <div class="col pt-lg-0 pt-md-4">
             <div class="bg1 b-dash p-3 brad">
-              <p class="mb-0">El siguiente tema fundamental son los protocolos de comunicación. En esta sección, el estudiante aprende sobre protocolos como LoRaWAN, MQTT y ZigBee, que garantizan la transferencia eficiente y segura de datos entre los dispositivos y la nube, adaptándose a las distintas necesidades de los entornos productivos.</p>
+              <p class="mb-0">El siguiente tema fundamental aborda los protocolos de comunicación. En esta sección, el estudiante aprende sobre protocolos como LoRaWAN, MQTT y ZigBee, que garantizan la transferencia eficiente y segura de datos entre los dispositivos y la nube, adaptándose a las distintas necesidades de los entornos productivos.</p>
             </div>
           </div>
         </div>

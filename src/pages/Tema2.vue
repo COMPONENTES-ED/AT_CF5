@@ -245,15 +245,15 @@
                   </div>
                   <div class="row justify-content-center">
                     <div class="col-lg-6 my-2">
-                      <h5 class="mb-4">Gateways IoT</h5>
+                      <h5 class="mb-4"><em>Gateways</em> IoT</h5>
                       <p>
-                        Los gateways IoT conectan los sensores al sistema de
-                        monitoreo central y permiten la transmisión de datos
-                        mediante protocolos de comunicación como LoRaWAN y MQTT.
-                        Estos dispositivos son fundamentales en entornos donde
-                        los sensores están distribuidos en grandes áreas, como
-                        en instalaciones industriales o terrenos agrícolas
-                        extensos.
+                        Los <em>gateways</em> IoT conectan los sensores al
+                        sistema de monitoreo central y permiten la transmisión
+                        de datos mediante protocolos de comunicación como
+                        LoRaWAN y MQTT. Estos dispositivos son fundamentales en
+                        entornos donde los sensores están distribuidos en
+                        grandes áreas, como en instalaciones industriales o
+                        terrenos agrícolas extensos.
                       </p>
                     </div>
                     <div class="col-lg-5 my-2">

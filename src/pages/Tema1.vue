@@ -195,7 +195,7 @@
                 <tr>
                   <td>Plataforma de gestión de datos</td>
                   <td>
-                    Un sistema central que almacena procesa y analiza los datos
+                    Un sistema central que almacena, procesa y analiza los datos
                     enviados por los dispositivos. Las plataformas IoT en la
                     nube, como ThingSpeak o AWS IoT, permiten la visualización
                     de datos y el envío de alertas
@@ -275,8 +275,8 @@
             </div>
           </div>
           <p>
-            La arquitectura de IoT consta de tres capas principales: Percepción,
-            Red y Aplicación.
+            La arquitectura de IoT consta de tres capas principales: percepción,
+            red y aplicación.
           </p>
           <AccordionRED tipo="a" clase-tarjeta="tarjeta bg7">
             <div titulo="Capa de percepción">

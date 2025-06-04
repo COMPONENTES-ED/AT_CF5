@@ -112,24 +112,24 @@
             Una vez que los sensores y actuadores están configurados, se
             requiere de una infraestructura de comunicación que permita
             transmitir los datos hacia una plataforma centralizada en la nube.
-            Aquí es donde entran en juego los gateways IoT, que actúan como
-            intermediarios entre los dispositivos de campo y la red de
-            comunicación. Los gateways recogen los datos de los sensores y los
-            envían a través de un protocolo de comunicación hacia la nube, donde
-            se procesan y almacenan para su análisis.
+            Aquí es donde entran en juego los <em>gateways</em> IoT, que actúan
+            como intermediarios entre los dispositivos de campo y la red de
+            comunicación. Los <em>gateways</em> recogen los datos de los
+            sensores y los envían a través de un protocolo de comunicación hacia
+            la nube, donde se procesan y almacenan para su análisis.
           </p>
           <div class="bg1-br p-4 brad">
             <p class="mb-0">
-              En la configuración de un gateway IoT, es crucial elegir un
-              protocolo de comunicación que sea adecuado para el tipo de sistema
-              y entorno operativo. Los protocolos de comunicación más comunes
-              incluyen LoRaWAN, MQTT y ZigBee, los cuales permiten transmitir
-              datos en redes de baja potencia y largo alcance. Una vez que los
-              datos están en la nube, pueden visualizarse y gestionarse a través
-              de plataformas IoT como ThingSpeak, AWS IoT o Azure IoT Hub, que
-              ofrecen herramientas para el análisis de datos, la creación de
-              paneles de control y la configuración de alertas automáticas en
-              tiempo real.
+              En la configuración de un <em>gateway</em> IoT, es crucial elegir
+              un protocolo de comunicación que sea adecuado para el tipo de
+              sistema y entorno operativo. Los protocolos de comunicación más
+              comunes incluyen LoRaWAN, MQTT y ZigBee, los cuales permiten
+              transmitir datos en redes de baja potencia y largo alcance. Una
+              vez que los datos están en la nube, pueden visualizarse y
+              gestionarse a través de plataformas IoT como ThingSpeak, AWS IoT o
+              Azure IoT Hub, que ofrecen herramientas para el análisis de datos,
+              la creación de paneles de control y la configuración de alertas
+              automáticas en tiempo real.
             </p>
           </div>
         </div>
@@ -183,7 +183,7 @@
         data-aos="zoom-in-left"
       >
         <h2>
-          4.4 Desafíos y mejores prácticas para la integración de iot en
+          4.4 Desafíos y mejores prácticas para la integración de IoT en
           procesos productivos
         </h2>
       </div>
@@ -342,7 +342,7 @@
                         calefacción, ventilación y aire acondicionado (HVAC) en
                         función de la ocupación del edificio, lo que permite
                         reducir el consumo de energía y mejorar el confort de
-                        los ocupantes
+                        los ocupantes.
                       </p>
                     </div>
                     <div class="col-lg-5 my-2">
@@ -365,7 +365,7 @@
         class="titulo-segundo color-acento-contenido"
         data-aos="zoom-in-left"
       >
-        <h2>4.6 Ventajas de la Integración de IoT en Procesos Productivos</h2>
+        <h2>4.6 Ventajas de la Integración de IoT en procesos productivos</h2>
       </div>
       <p>
         La integración de IoT en los procesos productivos ofrece diversas
