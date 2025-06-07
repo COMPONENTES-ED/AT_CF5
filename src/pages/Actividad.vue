@@ -21,12 +21,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba tus conocimientos sobre implementación de IoT en la gestión
+              Prueba tus conocimientos sobre Implementación de IoT en la gestión
               de procesos productivos automatizados
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre implementación de IoT en la
+            Validar el conocimiento adquirido sobre Implementación de IoT en la
             gestión de procesos productivos automatizados. Esto se trabaja a
             partir de un conjunto de preguntas con el propósito de buscar una
             dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
