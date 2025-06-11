@@ -137,7 +137,7 @@ export default {
           },
           {
             numero: '4.6',
-            titulo: 'Ventajas de la Integración de IoT en Procesos Productivos',
+            titulo: 'Ventajas de la integración de IoT en procesos productivos',
             hash: 't_4_6',
           },
         ],
@@ -181,7 +181,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Implementación Práctica de un Sistema IoT Básico',
+        titulo: 'Implementación práctica de un sistema IoT básico',
         desarrolloContenidos: true,
         subMenu: [
           {

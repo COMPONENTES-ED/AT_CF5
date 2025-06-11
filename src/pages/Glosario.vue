@@ -46,22 +46,22 @@ export default {
             'Plataforma de Amazon Web Services para gestionar y analizar dispositivos IoT a escala industrial, con capacidades avanzadas de machine learning e inteligencia artificial.',
         },
         {
-          termino: 'Big Data',
+          termino: 'Big data',
           significado:
             'Conjunto de datos masivos generados por dispositivos IoT, que requieren procesamiento avanzado y análisis para extraer información valiosa.',
         },
         {
-          termino: 'Calibración de Sensores',
+          termino: 'Calibración de sensores',
           significado:
             'Proceso de ajuste de los sensores para que sus mediciones sean precisas y confiables, crucial en sistemas IoT para garantizar la calidad de los datos.',
         },
         {
-          termino: 'Eficiencia Energética',
+          termino: 'Eficiencia energética',
           significado:
             'Optimización del consumo de energía en dispositivos IoT, fundamental para extender la vida útil de dispositivos alimentados por batería en entornos remotos.',
         },
         {
-          termino: 'Gemelos Digitales',
+          termino: 'Gemelos digitales',
           significado:
             'Representación digital de un dispositivo o sistema físico, que permite simular su comportamiento en tiempo real, facilitando el monitoreo y análisis sin interferir en el sistema real.',
         },
@@ -81,7 +81,7 @@ export default {
             'Protocolo de comunicación de largo alcance y bajo consumo de energía, ideal para conectar dispositivos IoT en áreas extensas, como campos agrícolas.',
         },
         {
-          termino: 'Mantenimiento Predictivo',
+          termino: 'Mantenimiento predictivo',
           significado:
             'Tipo de red en la cual cada dispositivo IoT se conecta con otros dispositivos cercanos, ampliando la cobertura y aumentando la fiabilidad de la comunicación, típico en ZigBee.',
         },
@@ -96,12 +96,12 @@ export default {
             'Protocolo ligero de mensajería que facilita la comunicación entre dispositivos IoT y plataformas en la nube mediante un modelo de publicación/suscripción.',
         },
         {
-          termino: 'Plataforma en la Nube',
+          termino: 'Plataforma en la nube',
           significado:
             'Entorno digital en línea donde se almacenan, procesan y visualizan los datos de los dispositivos IoT, permitiendo el acceso y gestión remota del sistema.',
         },
         {
-          termino: 'Protocolo de Comunicación',
+          termino: 'Protocolo de comunicación',
           significado:
             'Conjunto de reglas que permiten la transmisión de datos entre dispositivos IoT y plataformas en la nube, asegurando una comunicación efectiva y segura.',
         },
@@ -116,12 +116,12 @@ export default {
             'Herramienta virtual para probar y configurar sistemas IoT sin necesidad de <i>Hardware</i> físico, útil para verificar configuraciones y programación de sensores y actuadores.',
         },
         {
-          termino: 'ThingSpeak',
+          termino: 'Thingspeak',
           significado:
             'Plataforma en la nube popular para proyectos IoT pequeños, que permite almacenar y visualizar datos de sensores en tiempo real, y configurar alertas automáticas.',
         },
         {
-          termino: 'Visualización de Datos',
+          termino: 'Visualización de datos',
           significado:
             'Presentación gráfica de los datos de IoT en tiempo real, facilitando el análisis y la toma de decisiones, común en plataformas como ThingSpeak y Google Cloud IoT.',
         },

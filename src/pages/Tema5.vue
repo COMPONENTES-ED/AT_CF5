@@ -508,7 +508,8 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/74.svg"
-              alt="La Figura 5 se denomina «Resumen plataformas en la nube para la gestión de datos IoT». Presenta un mapa conceptual que se divide en cuatro secciones principales: la importancia de las plataformas en la nube (incluyendo recopilación y procesamiento de datos), las funcionalidades de las plataformas (como centralización de datos y toma de decisiones), las herramientas avanzadas ofrecidas (que incluyen visualización en tiempo real y modelos de IA), y la integración de las plataformas en sistemas de gestión de procesos productivos."
+              alt="El diagrama «Resumen plataformas en la nube para la gestión de datos IoT», presenta un mapa conceptual que se divide en cuatro secciones principales: la importancia de las plataformas en la nube (incluyendo recopilación y procesamiento de datos), las funcionalidades de las plataformas (como centralización de datos y toma de decisiones), las herramientas avanzadas ofrecidas (que incluyen visualización en tiempo real y modelos de IA), y la integración de las plataformas en sistemas de gestión de procesos productivos.
+"
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>

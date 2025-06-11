@@ -627,7 +627,8 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/29.svg"
-              alt="La Figura 1 se denomina «Resumen fundamentos de IoT en la gestión de procesos productivos». La imagen muestra un mapa conceptual que se ramifica en seis temas principales: una introducción al Internet de las Cosas (IoT), su importancia en la gestión de procesos productivos, su funcionamiento (incluyendo uso de sensores y recopilación de datos como temperatura, humedad y pH), los beneficios (como ajuste en tiempo real y optimización de recursos), la arquitectura de un sistema IoT, y sus aplicaciones en el monitoreo de procesos productivos en agricultura y manufactura."
+              alt="El diagrama «Resumen introducción a los sistemas automatizados en la agricultura» se ramifica en seis temas principales: una introducción al Internet de las Cosas (IoT), su importancia en la gestión de procesos productivos, su funcionamiento (incluyendo uso de sensores y recopilación de datos como temperatura, humedad y pH), los beneficios (como ajuste en tiempo real y optimización de recursos), la arquitectura de un sistema IoT, y sus aplicaciones en el monitoreo de procesos productivos en agricultura y manufactura.
+"
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>

@@ -4,7 +4,7 @@
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5">
       <div class="titulo-principal color-acento-contenido">
         <div class="titulo-principal__numero"><span>6</span></div>
-        <h1>Implementación Práctica de un Sistema IoT Básico</h1>
+        <h1>Implementación práctica de un sistema IoT básico</h1>
       </div>
       <div class="row justify-content-center mb-4">
         <div class="col-lg-4 my-lg-0 my-3">
@@ -147,7 +147,7 @@
         <h2>6.3 Programación del microcontrolador y envío de datos</h2>
       </div>
       <p>
-        Una vez configurado el <em>Hardware</em>, el siguiente paso es programar
+        Una vez configurado el <em>hardware</em>, el siguiente paso es programar
         el microcontrolador para que lea los datos del sensor y los envíe a la
         plataforma en la nube. A continuación se detallan los pasos clave:
       </p>
@@ -408,7 +408,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/82.svg"
-              alt="La Figura 6 se denomina «Resumen implementación práctica de un sistema básico IoT». Presenta un mapa conceptual que se divide en cinco secciones principales: una introducción que explica el propósito y la importancia de familiarizarse con los componentes IoT, el diseño y configuración del sistema (incluyendo monitoreo de variables y conectividad), los detalles de implementación paso a paso (desde la selección de sensores hasta la configuración de alertas), la base práctica para proyectos más complejos, y las conclusiones y recomendaciones para futuras implementaciones. "
+              alt="El diagrama «Resumen implementación práctica de un sistema básico IoT», presenta un mapa conceptual que se divide en cinco secciones principales: una introducción que explica el propósito y la importancia de familiarizarse con los componentes IoT, el diseño y configuración del sistema (incluyendo monitoreo de variables y conectividad), los detalles de implementación paso a paso (desde la selección de sensores hasta la configuración de alertas), la base práctica para proyectos más complejos, y las conclusiones y recomendaciones para futuras implementaciones."
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>

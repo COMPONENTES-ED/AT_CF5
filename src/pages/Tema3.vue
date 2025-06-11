@@ -155,7 +155,7 @@
                   ><span
                     ><b>Aplicaciones típicas:</b> gestión de datos en
                     plataformas en la nube, automatización industrial, monitoreo
-                    en tiempo real</span
+                    en tiempo real.</span
                   >
                 </li>
               </ul>
@@ -248,8 +248,8 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    ><b>Alta velocidad de transferencia de datos</b>, ideal para
-                    aplicaciones que requieren gran ancho de banda.</span
+                    ><b>Alta velocidad de transferencia de datos:</b>, ideal
+                    para aplicaciones que requieren gran ancho de banda.</span
                   >
                 </li>
                 <li>
@@ -470,7 +470,8 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/51.svg"
-              alt="La Figura 3 se denomina «Resumen tecnologías de comunicación utilizadas en IoT». Presenta un mapa conceptual que se divide en cinco secciones principales: la importancia de las tecnologías de comunicación (que facilitan la transmisión de datos y aseguran la precisión), la elección de la tecnología adecuada (considerando alcance, velocidad, consumo y costos), las principales tecnologías utilizadas (como LoRaWAN, MQTT y ZigBee), énfasis en los protocolos más relevantes, y el uso común de estas tecnologías en la industria y agroindustria. "
+              alt="El diagrama «Resumen tecnologías de comunicación utilizadas en IoT», presenta un mapa conceptual que se divide en cinco secciones principales: la importancia de las tecnologías de comunicación (que facilitan la transmisión de datos y aseguran la precisión), la elección de la tecnología adecuada (considerando alcance, velocidad, consumo y costos), las principales tecnologías utilizadas (como LoRaWAN, MQTT y ZigBee), énfasis en los protocolos más relevantes, y el uso común de estas tecnologías en la industria y agroindustria.
+"
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>
