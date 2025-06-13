@@ -248,8 +248,8 @@
                 <li>
                   <i class="fas fa-check-circle color1"></i
                   ><span
-                    ><b>Alta velocidad de transferencia de datos:</b>, ideal
-                    para aplicaciones que requieren gran ancho de banda.</span
+                    ><b>Alta velocidad de transferencia de datos:</b> ideal para
+                    aplicaciones que requieren gran ancho de banda.</span
                   >
                 </li>
                 <li>

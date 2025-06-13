@@ -60,15 +60,20 @@ export default {
           },
           {
             numero: '2.2',
-            titulo:
-              'Herramientas para el monitoreo de variables en tiempo real',
+            titulo: 'Principales variables de control en procesos productivos',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
             titulo:
-              'Ventajas del control de variables en sistemas automatizados',
+              'Herramientas para el monitoreo de variables en tiempo real',
             hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo:
+              'Ventajas del control de variables en sistemas automatizados',
+            hash: 't_2_4',
           },
         ],
       },

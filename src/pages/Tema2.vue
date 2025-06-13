@@ -53,7 +53,7 @@
             data-aos="zoom-in-left"
           >
             <h2>
-              2.1 Importancia del monitoreo de variables en procesos productivo
+              2.1 Importancia del monitoreo de variables en procesos productivos
             </h2>
           </div>
           <div class="row justify-content-center mb-4">
