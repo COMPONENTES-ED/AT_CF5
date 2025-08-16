@@ -61,27 +61,28 @@ export default {
         {
           tema: 'Configuración del microcontrolador ESP32',
           referencia:
-            'DroneBot Workshop. (2020). Getting Started with ESP32. YouTube.',
+            'Tarnowski, T. [@tomasztarnowski4434]. (n.d.). Getting started with ESP32 - step-by-step tutorial. [Video] Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=tc3Qnf79Ny8',
           tipo: 'Video tutorial',
           link: 'https://www.youtube.com/watch?v=tc3Qnf79Ny8',
         },
         {
           tema: 'Programación con Arduino IDE',
           referencia:
-            'Random Nerd Tutorials. (2021). How to Program ESP32 and ESP8266 with Arduino IDE.',
-          tipo: 'Tutorial en línea',
-          link: 'https://randomnerdtutorials.com/program-esp32-arduino-ide',
+            'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: Manual Básico para Estudiantes. [Documento PDF]. Alumni Editora. https://doi.org/10.70625/alumned/9',
+          tipo: 'Documento en PDF',
+          link: 'https://doi.org/10.70625/alumned/9',
         },
         {
           tema: 'Simulador para proyectos IoT',
-          referencia: 'Wokwi. (2022). Wokwi IoT Simulator. Wokwi.',
+          referencia:
+            'Wokwi - World’s most advanced ESP32 Simulator. (n.d.). [Simulador Web]. Wokwi.com. Recuperado el 11 de junio de 2025, de https://wokwi.com/',
           tipo: 'Simulador en línea',
           link: 'https://wokwi.com/',
         },
         {
           tema: 'AWS IoT en Aplicaciones Industriales',
           referencia:
-            'Amazon Web Services. (2019). Introduction to AWS IoT Core. YouTube.',
+            'Amazon Web Services. (2019). Introduction to AWS IoT Core. [Video]. YouTube. https://www.youtube.com/watch?v=Q89oqK_nzFg&list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=Q89oqK_nzFg&list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL',
@@ -89,10 +90,10 @@ export default {
         {
           tema: 'Casos de Estudio en Agricultura y Manufactura',
           referencia:
-            'Lee, J., & Kim, H. (2021). Cloud IoT Applications in Smart Agriculture and Manufacturing. Journal of Industrial IoT, 6(2), 123-138.',
-          tipo: 'Artículo de investigación',
+            'Agrosavia.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y.',
+          tipo: 'Documento de trabajo',
           link:
-            'Agricultura inteligente habilitada para IoT con Industria 5.0 - Aishita Sharma, Sunil K. Singh, Sudhakar Kumar, Ruchika Thakur, Brij B. Gupta, Varsha Arya, 2024  (journals.sagepub.com)',
+            'https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y.',
         },
       ]
     },

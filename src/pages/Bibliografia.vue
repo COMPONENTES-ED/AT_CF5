@@ -23,74 +23,121 @@ export default {
     referencias: [
       {
         referencia:
-          'Amazon Web Services. (2019). <i>Introduction to AWS IoT Core</i>. YouTube. ',
-        link: 'https://www.youtube.com/watch?v=YjAQ3L5uC5g',
+          'Agrosavia.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y',
       },
       {
         referencia:
-          'Beebom. (2019). <i>What is LoRa and LoRaWAN?</i> YouTube. ',
-        link: 'https://www.youtube.com/watch?v=efU-6qzGKTc',
+          'AI in Business (IA en la empresa) [@Al_Busines]. (n.d.). Supervisión automática de maquinaria: Mantenimiento predictivo y eficiencia energética. [Video]. Youtube. Recuperado el 16 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=qVhRbyPsh7Q',
       },
       {
         referencia:
-          'Baker, M. (2020). <i>Cloud Platforms for IoT: An Overview</i>. IoT World Today. ',
+          'Amazon Web Services [@amazonwebservices]. (s/f). Introducción a AWS IoT. [Video]. Youtube. Recuperado el 16 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=ywne0g-9ZWY',
+      },
+      {
+        referencia:
+          'Baker, M. (2020). Cloud Platforms for IoT: An Overview. IoT World Today.',
         link: 'https://www.iotworldtoday.com/',
       },
       {
         referencia:
-          'Digi-Key Electronics. (2019). <i>Power Saving Techniques for IoT Devices</i>. Digi-Key. ',
+          'Digi-Key Electronics. (2019). Power Saving Techniques for IoT Devices. Digi-Key.',
         link: 'https://www.digikey.com/',
       },
       {
         referencia:
-          'DroneBot Workshop. (2020). <i>Getting Started with ESP32</i>. YouTube. ',
-        link: 'https://www.youtube.com/watch?v=MLaPp9gJfYY',
+          'Domotics, I. [@INNOVADOMOTICS]. (n.d.). ESP32 - Introducción y Aplicaciones - Guía Completa. [Video]. Youtube. Recuperado el 16 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=gbntchCgXSs',
       },
       {
         referencia:
-          'EdX. (2020). <i>IoT for Smart Buildings and Energy Management</i>. EdX. ',
+          'Edu.ec. (n.d.). [Documento PDF]. Recuperado el 15 de junio de 2025, de',
         link:
-          'https://www.edx.org/course/iot-smart-buildings-energy-management',
+          'https://dspace.ups.edu.ec/bitstream/123456789/19349/1/UPS-CT008847.pdf',
       },
       {
         referencia:
-          'Google Cloud. (2021). <i>Getting Started with Google Cloud IoT Core</i>. Google Cloud. ',
+          'Go, I. to [@instrumentacion_industrial]. (n.d.). Términos del control de procesos. [Video]. Youtube. Recuperado el 15 de junio de 2025, de',
+        link: 'https://www.youtube.com/watch?v=LUi0HEXKnjo',
+      },
+      {
+        referencia:
+          'Google Cloud. (2021). Getting Started with Google Cloud IoT Core. Google Cloud.',
         link: 'https://cloud.google.com/iot-core/docs/quickstart',
       },
       {
         referencia:
-          'IBM Think Academy. (2019). <i>How IoT is Revolutionizing Manufacturing and Predictive Maintenance</i>. YouTube. ',
-        link: 'https://www.youtube.com/watch?v=b6zAf8kx3o4',
+          'IoT protocols: A comprehensive guide. (2024, septiembre 9). A1 Digital; #creator.',
+        link:
+          'https://www.a1.digital/knowledge-hub/iot-protocols-a-comprehensive-guide/',
       },
       {
         referencia:
-          'IoT Projects. (2020). <i>How to Set Up Alerts in ThingSpeak Using IFTTT</i>. IoT Projects. ',
-        link: 'https://www.iotprojects.com/alerts-thingspeak-ifttt',
+          'Isc, E. [@EDUCATRONICOSISC]. (n.d.). ¿Qué es el IOT? - Definición, Topología, Características y Aplicaciones. [Video]. Youtube. Recuperado el 13 de junio de 2025, de',
+        link:
+          'https://www.youtube.com/watch?v=gzM15itxUzU&list=PLts8p0-b9wstwo9hkW2z1Z1pr5R_1OguW',
       },
       {
         referencia:
-          'Lee, J., & Kim, H. (2021). <i>Cloud IoT Applications in Smart Agriculture and Manufacturing. Journal of Industrial IoT, 6</i>(2), 123-138. ',
-        link: 'https://www.journalindustriot.com/cloud-applications',
+          'Isc, E. [@EDUCATRONICOSISC]. (n.d.). LoRa y LoRaWAN - El futuro del IOT. [Video]. Youtube. Recuperado el 15 de junio de 2025, de ',
+        link: 'https://www.youtube.com/watch?v=TE5__LDPtaw&t=24s',
       },
       {
         referencia:
-          'MathWorks. (2021). <i>Visualizing IoT Data with ThingSpeak</i>. MathWorks. ',
+          'Lo Ra y GPRS, C. E. (n.d.). Análisis de sistemas IoT en entorno agrícola. [Documento PDF]. Uoc.edu. Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://openaccess.uoc.edu/server/api/core/bitstreams/5942ab0a-6557-4dc3-b345-78e2f5a29244/content',
+      },
+      {
+        referencia:
+          'MathWorks. (2021). Visualizing IoT Data with ThingSpeak. MathWorks.',
         link: 'https://www.mathworks.com/help/thingspeak',
       },
       {
         referencia:
-          'Random Nerd Tutorials. (2021). <i>How to Program ESP32 and ESP8266 with Arduino IDE</i>. Random Nerd Tutorials. ',
-        link: 'https://randomnerdtutorials.com/',
+          'Mathworks.com. (n.d.). Recuperado el 15 de junio de 2025, de',
+        link: 'https://www.mathworks.com/help/thingspeak/getting-started.html',
       },
       {
         referencia:
-          'SparkFun. (2021). <i>DHT11 and DHT22 Sensors Explained</i>. SparkFun. ',
-        link: 'https://learn.sparkfun.com/tutorials/',
+          'Microsoft.com. (n.d.). Recuperado el 14 de junio de 2025, de',
+        link:
+          'https://azure.microsoft.com/es-es/solutions/iot/iot-technology-protocols',
       },
       {
         referencia:
-          'White, A. (2021). <i>Understanding IoT Communication Protocols: MQTT, CoAP, LoRa, and Others</i>. IoT For All. ',
-        link: 'https://www.iotforall.com/',
+          'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: Manual Básico para Estudiantes. [Documento PDF]. Alumni Editora.',
+        link: 'https://doi.org/10.70625/alumned/9',
+      },
+      {
+        referencia:
+          'SparkFun. (2021). DHT11 and DHT22 Sensors Explained. SparkFun.',
+        link: 'https://learn.sparkfun.com/tutorials/ ',
+      },
+      {
+        referencia:
+          'Vista de Agricultura de Precisión: La integración de las TIC en la producción Agrícola. (n.d.). [Documento PDF]. Edu.co. Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://revistascientificas.cuc.edu.co/CESTA/article/view/3978/4013 ',
+      },
+      {
+        referencia:
+          'Weg.net. (n.d.). [Documento PDF]. Recuperado el 15 de junio de 2025, de',
+        link:
+          'https://static.weg.net/medias/downloadcenter/hf4/h7d/WEG-sensores-industriales-50094674-es.pdf',
+      },
+      {
+        referencia:
+          'Wokwi - World’s most advanced ESP32 Simulator. (s/f). Wokwi.com. Recuperado el 14 de junio de 2025, de',
+        link: 'https://wokwi.com/ ',
+      },
+      {
+        referencia: 'Tme.eu. (n.d.). Recuperado el 16 de junio de 2025, de',
+        link:
+          'https://www.tme.eu/es/news/library-articles/page/53063/no-solo-wi-fi-estandares-de-comunicacion-inalambrica-en-iot/ ',
       },
     ],
   }),
