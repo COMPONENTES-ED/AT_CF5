@@ -61,7 +61,7 @@ export default {
         {
           tema: 'Configuración del microcontrolador ESP32',
           referencia:
-            'Tarnowski, T. [@tomasztarnowski4434]. (n.d.). Getting started with ESP32 - step-by-step tutorial. [Video] Youtube. Recuperado el 11 de junio de 2025, de https://www.youtube.com/watch?v=tc3Qnf79Ny8',
+            'Tarnowski, T. [@tomasztarnowski4434]. (n.d.). Getting started with ESP32 - step-by-step tutorial. [Video] Youtube.',
           tipo: 'Video tutorial',
           link: 'https://www.youtube.com/watch?v=tc3Qnf79Ny8',
         },
@@ -82,7 +82,7 @@ export default {
         {
           tema: 'AWS IoT en Aplicaciones Industriales',
           referencia:
-            'Amazon Web Services. (2019). Introduction to AWS IoT Core. [Video]. YouTube. https://www.youtube.com/watch?v=Q89oqK_nzFg&list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL',
+            'Amazon Web Services. (2019). Introduction to AWS IoT Core. [Video]. YouTube.',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=Q89oqK_nzFg&list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL',
