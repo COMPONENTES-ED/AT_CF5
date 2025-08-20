@@ -68,14 +68,14 @@ export default {
         {
           tema: 'Programación con Arduino IDE',
           referencia:
-            'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: Manual Básico para Estudiantes. [Documento PDF]. Alumni Editora. https://doi.org/10.70625/alumned/9',
+            'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: Manual Básico para Estudiantes. [Documento PDF]. Alumni Editora.',
           tipo: 'Documento en PDF',
           link: 'https://doi.org/10.70625/alumned/9',
         },
         {
           tema: 'Simulador para proyectos IoT',
           referencia:
-            'Wokwi - World’s most advanced ESP32 Simulator. (n.d.). [Simulador Web]. Wokwi.com. Recuperado el 11 de junio de 2025, de https://wokwi.com/',
+            'Wokwi - World’s most advanced ESP32 Simulator. (n.d.). [Simulador Web]. Wokwi.com.',
           tipo: 'Simulador en línea',
           link: 'https://wokwi.com/',
         },
@@ -89,8 +89,7 @@ export default {
         },
         {
           tema: 'Casos de Estudio en Agricultura y Manufactura',
-          referencia:
-            'Agrosavia.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y.',
+          referencia: 'Agrosavia.co. (n.d.). [Documento PDF].',
           tipo: 'Documento de trabajo',
           link:
             'https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y.',
