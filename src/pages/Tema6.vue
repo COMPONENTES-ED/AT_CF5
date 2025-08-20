@@ -436,14 +436,17 @@
             <div class="col-lg-6 my-3">
               <a
                 class="anexo mb-3"
-                href="https://www.youtube.com/watch?v=MLaPp9gJfYY"
+                href="https://www.youtube.com/watch?v=gbntchCgXSs"
                 target="_blank"
               >
                 <div class="anexo__icono">
                   <img src="@/assets/curso/temas/icono-link.svg" />
                 </div>
                 <div class="anexo__texto">
-                  <p><b>Enlace web.</b> Video “Getting Started with ESP32”</p>
+                  <p>
+                    <b>Enlace web.</b> Video "ESP32 - Introducción y
+                    aplicaciones - Guía completa"
+                  </p>
                 </div></a
               ><a class="anexo mb-3" href="https://wokwi.com/" target="_blank">
                 <div class="anexo__icono">
@@ -451,7 +454,7 @@
                 </div>
                 <div class="anexo__texto">
                   <p>
-                    <b>Enlace web.</b> Simulador en línea “Wokwi IoT Simulator”
+                    <b>Enlace web.</b> Simulador en línea "Wokwi IoT Simulator"
                   </p>
                 </div></a
               >
@@ -459,7 +462,7 @@
             <div class="col-lg-6 my-3">
               <a
                 class="anexo mb-3"
-                href="https://www.digikey.com/power-saving-techniques-iot"
+                href="https://www.youtube.com/watch?v=M4mC9bPcVkI&t=64s"
                 target="_blank"
               >
                 <div class="anexo__icono">
@@ -467,8 +470,8 @@
                 </div>
                 <div class="anexo__texto">
                   <p>
-                    <b>Enlace web.</b> Artículo técnico "Power Saving Techniques
-                    for IoT Devices"
+                    <b>Enlace web.</b> Video - ¿Cómo ahorrar energía eléctrica
+                    usando IoT + IA?
                   </p>
                 </div></a
               >

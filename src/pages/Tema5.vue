@@ -537,16 +537,14 @@
             <div class="col-lg-6 my-3">
               <a
                 class="anexo mb-3"
-                href="https://www.youtube.com/watch?v=YjAQ3L5uC5g"
+                href="https://www.youtube.com/watch?v=ywne0g-9ZWY"
                 target="_blank"
               >
                 <div class="anexo__icono">
                   <img src="@/assets/curso/temas/icono-link.svg" />
                 </div>
                 <div class="anexo__texto">
-                  <p>
-                    <b>Enlace web.</b> Video: “Introduction to AWS IoT Core”
-                  </p>
+                  <p><b>Enlace web.</b> Video: "Introducción a AWS IoT"</p>
                 </div></a
               ><a
                 class="anexo mb-3"
@@ -574,7 +572,10 @@
                   <img src="@/assets/curso/temas/icono-link.svg" />
                 </div>
                 <div class="anexo__texto">
-                  <p><b>Enlace web.</b> “Getting Started with ThingSpeak"</p>
+                  <p>
+                    <b>Enlace web.</b> Tutoriales en línea: "Getting Started
+                    with ThingSpeak"
+                  </p>
                 </div></a
               >
             </div>

@@ -644,14 +644,14 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.youtube.com/watch?v=GvmM-hZnEiE "
+            href="https://www.youtube.com/watch?v=gzM15itxUzU&list=PLts8p0-b9wstwo9hkW2z1Z1pr5R_1OguW"
             target="_blank"
           >
             <div class="anexo__icono">
               <img src="@/assets/curso/temas/icono-link.svg" />
             </div>
             <div class="anexo__texto">
-              <p><b>Enlace web.</b> Video- “IoT for Beginners - Full Course</p>
+              <p><b>Enlace web.</b> Video- “Que es el IoT?” – curso básico</p>
             </div></a
           ><a class="anexo mb-3" href="https://wokwi.com/" target="_blank">
             <div class="anexo__icono">
@@ -668,7 +668,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.intechopen.com/books/internet-of-things-systems-and-applications "
+            href="https://azure.microsoft.com/es-es/solutions/iot/iot-technology-protocols"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -676,10 +676,7 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Lectura: “ommunication Protocols for IoT
-                Systems”. Este libro explica los principales protocolos de
-                comunicación utilizados en IoT, como MQTT, LoRaWAN y ZigBee, con
-                ejemplos de aplicaciones en la industria.
+                <b>Enlace web.</b> Lectura: “Protocolos y tecnologías de IoT”
               </p>
             </div></a
           >

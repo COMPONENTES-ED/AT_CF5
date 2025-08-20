@@ -486,18 +486,18 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.youtube.com/watch?v=efU-6qzGKTc"
+            href="https://www.youtube.com/watch?v=TE5__LDPtaw&t=24s"
             target="_blank"
           >
             <div class="anexo__icono">
               <img src="@/assets/curso/temas/icono-link.svg" />
             </div>
             <div class="anexo__texto">
-              <p><b>Enlace web.</b> Video “What is LoRa and LoRaWAN”</p>
+              <p><b>Enlace web.</b> Video “Qué es Lora y LoraWan?”</p>
             </div></a
           ><a
             class="anexo mb-3"
-            href="https://www.digi.com/resources/documentation/digidocs/pdfs/zigbee-standard"
+            href="https://dspace.ups.edu.ec/bitstream/123456789/19349/1/UPS-CT008847.pdf"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -505,8 +505,9 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Manual técnico - ZigBee Wireless Standard:
-                Applications and Benefits".
+                <b>Enlace web.</b> Lectura - “Desarrollo de un manual de
+                prácticas para el uso de equipos Lora Wan en redes de sensores
+                inalámbricos”.
               </p>
             </div></a
           >
@@ -514,7 +515,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.iot-times.com/blog/using-wifi-iot"
+            href="https://www.tme.eu/es/news/library-articles/page/53063/no-solo-wi-fi-estandares-de-comunicacion-inalambrica-en-iot/"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -522,8 +523,8 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Blog técnico- "Using Wi-Fi in IoT: Pros and
-                Cons"
+                <b>Enlace web.</b> “No solo wi-fi, estandares de comunicación
+                inalambrica en IoT”:
               </p>
             </div></a
           >

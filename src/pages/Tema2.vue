@@ -414,17 +414,14 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.youtube.com/watch?v=BtKf1G8Bi10 "
+            href="https://www.youtube.com/watch?v=LUi0HEXKnjo"
             target="_blank"
           >
             <div class="anexo__icono">
               <img src="@/assets/curso/temas/icono-link.svg" />
             </div>
             <div class="anexo__texto">
-              <p>
-                <b>Enlace web.</b> Video ”Process Variables and Control Systems
-                in Manufacturing”
-              </p>
+              <p><b>Enlace web.</b> Video “Términos de control de proceso”</p>
             </div></a
           ><a
             class="anexo mb-3"
@@ -445,14 +442,14 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.microchip.com/manual-sensores-industriales"
+            href="https://static.weg.net/medias/downloadcenter/hf4/h7d/WEG-sensores-industriales-50094674-es.pdf"
             target="_blank"
           >
             <div class="anexo__icono">
               <img src="@/assets/curso/temas/icono-link.svg" />
             </div>
             <div class="anexo__texto">
-              <p><b>Enlace web.</b> Manual de Sensores Industriales</p>
+              <p><b>Enlace web.</b> “Manual de Sensores Industriales”</p>
             </div></a
           >
         </div>

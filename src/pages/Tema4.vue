@@ -449,7 +449,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.agritechtoday.com/iot-precision-agriculture"
+            href="https://revistascientificas.cuc.edu.co/CESTA/article/view/3978/4013"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -457,13 +457,13 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Artículo técnico - "The Role of IoT in
-                Precision Agriculture"-
+                <b>Enlace web.</b> Artículo técnico - "La integración de las TIC
+                en la producción Agrícola”
               </p>
             </div></a
           ><a
             class="anexo mb-3"
-            href="https://www.youtube.com/watch?v=b6zAf8kx3o4"
+            href="https://www.youtube.com/watch?v=qVhRbyPsh7Q"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -471,8 +471,8 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Video educativo- “How IoT is Revolutionizing
-                Manufacturing and Predictive Maintenance"
+                <b>Enlace web.</b> Video educativo- “Supervisión automática de
+                maquinaria: Mantenimiento predictivo y eficiencia energética"
               </p>
             </div></a
           >
@@ -480,7 +480,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://www.sensirion.com/en/air-quality-monitoring-industrial"
+            href="https://openaccess.uoc.edu/server/api/core/bitstreams/5942ab0a-6557-4dc3-b345-78e2f5a29244/content"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -488,8 +488,8 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Manual técnico- "Air Quality Monitoring with
-                IoT in Industrial Settings"-
+                <b>Enlace web.</b> Manual técnico- "Análisis de sistemas IoT en
+                entorno agrícola"
               </p>
             </div></a
           >
