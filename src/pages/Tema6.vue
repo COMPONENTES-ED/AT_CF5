@@ -408,7 +408,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/82.svg"
-              alt="El diagrama «Resumen implementación práctica de un sistema básico IoT», presenta un mapa conceptual que se divide en cinco secciones principales: una introducción que explica el propósito y la importancia de familiarizarse con los componentes IoT, el diseño y configuración del sistema (incluyendo monitoreo de variables y conectividad), los detalles de implementación paso a paso (desde la selección de sensores hasta la configuración de alertas), la base práctica para proyectos más complejos, y las conclusiones y recomendaciones para futuras implementaciones."
+              alt="El diagrama presenta un mapa conceptual que se divide en cinco secciones principales: una introducción que explica el propósito y la importancia de familiarizarse con los componentes IoT, el diseño y configuración del sistema (incluyendo monitoreo de variables y conectividad), los detalles de implementación paso a paso (desde la selección de sensores hasta la configuración de alertas), la base práctica para proyectos más complejos, y las conclusiones y recomendaciones para futuras implementaciones."
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>

@@ -426,8 +426,7 @@
             <img
               class="img-a img-t"
               src="@/assets/curso/temas/62.svg"
-              alt="El diagrama «Resumen integración de IoT en procesos productivos», presenta un mapa conceptual que se divide en cuatro secciones principales: los beneficios de la integración (que incluye mejora de eficiencia y sostenibilidad), los componentes clave (sensores, actuadores y plataformas de comunicación), las etapas clave para la integración (desde la selección de sensores hasta la toma de decisiones), y los desafíos y mejores prácticas (incluyendo aspectos técnicos, de conectividad y seguridad).
-"
+              alt="El diagrama presenta un mapa conceptual que se divide en cuatro secciones principales: los beneficios de la integración (que incluye mejora de eficiencia y sostenibilidad), los componentes clave (sensores, actuadores y plataformas de comunicación), las etapas clave para la integración (desde la selección de sensores hasta la toma de decisiones), y los desafíos y mejores prácticas (incluyendo aspectos técnicos, de conectividad y seguridad)."
             />
           </div>
           <figcaption>Fuente: OIT, 2024.</figcaption>
