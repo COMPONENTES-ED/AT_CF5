@@ -55,7 +55,7 @@ export default {
           {
             numero: '2.1',
             titulo:
-              'Importancia de monitoreo de variables en procesos productivos',
+              'Importancia del monitoreo de variables en procesos productivos',
             hash: 't_2_1',
           },
           {
@@ -132,7 +132,7 @@ export default {
           {
             numero: '4.4',
             titulo:
-              'Desafíos y mejores prácticas para la integración de iot en procesos productivos',
+              'Desafíos y mejores prácticas para la integración de IoT en procesos productivos',
             hash: 't_4_4',
           },
           {

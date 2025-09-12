@@ -61,28 +61,28 @@ export default {
         {
           tema: 'Configuración del microcontrolador ESP32',
           referencia:
-            'Tarnowski, T. [@tomasztarnowski4434]. (n.d.). Getting started with ESP32 - step-by-step tutorial. [Video] Youtube.',
+            'Tarnowski, T. [@tomasztarnowski4434]. (n.d.). <em>Getting started with ESP32 - step-by-step tutorial.</em> [Video] Youtube.',
           tipo: 'Video tutorial',
           link: 'https://www.youtube.com/watch?v=tc3Qnf79Ny8',
         },
         {
           tema: 'Programación con Arduino IDE',
           referencia:
-            'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: Manual Básico para Estudiantes. [Documento PDF]. Alumni Editora.',
+            'Ortiz Arciniega, J. L., Valencia Barahona, F. X., Bosmediano Cárdenas, C. P., Bastidas Jácome, A. D., Aguirre Chagna, V. H., & Jácome Ayala, P. J. (2025). ESP32: <em>Manual Básico para Estudiantes.</em> [Documento PDF]. Alumni Editora.',
           tipo: 'Documento en PDF',
           link: 'https://doi.org/10.70625/alumned/9',
         },
         {
           tema: 'Simulador para proyectos IoT',
           referencia:
-            'Wokwi - World’s most advanced ESP32 Simulator. (n.d.). [Simulador Web]. Wokwi.com.',
+            '<em>Wokwi - World’s most advanced ESP32 Simulator.</em> (n.d.). [Simulador Web]. Wokwi.com.',
           tipo: 'Simulador en línea',
           link: 'https://wokwi.com/',
         },
         {
           tema: 'AWS IoT en Aplicaciones Industriales',
           referencia:
-            'Amazon Web Services. (2019). Introduction to AWS IoT Core. [Video]. YouTube.',
+            'Amazon Web Services. (2019). <em>How to Get Started with AWS IoT SiteWise - Intro (1/4).</em> [Video]. YouTube. ',
           tipo: 'Video',
           link:
             'https://www.youtube.com/watch?v=Q89oqK_nzFg&list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL',

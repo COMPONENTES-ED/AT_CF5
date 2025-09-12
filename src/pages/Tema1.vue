@@ -73,8 +73,8 @@
             <div class="col pt-lg-0 pt-md-4">
               <p class="mb-0">
                 En la agricultura, por ejemplo, el uso de IoT ha revolucionado
-                prácticas tradicionales al permitir una gestión precisa de los
-                recursos. Los sensores de humedad y nutrientes en el suelo
+                las prácticas tradicionales al permitir una gestión precisa de
+                los recursos. Los sensores de humedad y nutrientes en el suelo
                 informan al sistema sobre las condiciones específicas del
                 cultivo, lo que optimiza el riego y la fertilización y reduce el
                 impacto ambiental. De manera similar, en entornos de
@@ -676,7 +676,8 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Lectura: “Protocolos y tecnologías de IoT”
+                <b>Enlace web.</b> Lectura: Protocolos y tecnologías de IoT:
+                Azure IoT
               </p>
             </div></a
           >

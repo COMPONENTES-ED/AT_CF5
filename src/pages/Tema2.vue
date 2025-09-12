@@ -425,7 +425,7 @@
             </div></a
           ><a
             class="anexo mb-3"
-            href="https://www.mathworks.com/help/thingspeak/getting-started.html"
+            href="https://www.mathworks.com/help/thingspeak"
             target="_blank"
           >
             <div class="anexo__icono">
