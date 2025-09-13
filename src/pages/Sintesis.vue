@@ -47,6 +47,7 @@
     <div class="row justify-content-center">
       <div class="col-lg-10 mb-5 bgs p-4 brad">
         <figure><img src="@/assets/curso/temas/sintesis.svg" alt="La Síntesis muestra un mapa conceptual centrado en “Implementación de IoT en la gestión de procesos productivos automatizados”, que se divide en 6 ramas principales. Incluye temas como el Internet de las Cosas (IoT) en la modernización, gestión de variables críticas (humedad, temperatura, pH), beneficios de la automatización, componente formativo sobre IoT, aprendizaje de configuración y actividades prácticas. Cada rama principal se expande en subtemas que detallan aspectos específicos como recolección de datos, monitoreo remoto y protocolos de comunicación."/></figure>
+        <figcaption class='mt-5'> Fuente. OIT, 2024.</figcaption>
       </div>
       <div class="col-auto"><a class="anexo mb-5" :href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank">
           <div class="anexo__icono"><img src="@/assets/bullets/icono-pdf.svg"/></div>

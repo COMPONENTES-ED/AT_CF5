@@ -557,7 +557,8 @@
                 <div class="anexo__texto">
                   <p>
                     <b>Enlace web.</b> Tutoriales en línea: "Arquitectura de
-                    productos de la plataforma de IoT en Google Cloud"
+                    productos de la plataforma de IoT en Google Cloud" <br />
+                    https://cloud.google.com/iot-core/docs/quickstart
                   </p>
                 </div></a
               >
@@ -571,10 +572,11 @@
                 <div class="anexo__icono">
                   <img src="@/assets/curso/temas/icono-link.svg" />
                 </div>
-                <div class="anexo__texto">
+                <div class="anexo__texto text-wrap">
                   <p>
                     <b>Enlace web.</b> Tutoriales en línea: “Getting Started
-                    with ThingSpeak"
+                    with ThingSpeak" <br />
+                    https://www.mathworks.com/help/thingspeak
                   </p>
                 </div></a
               >
