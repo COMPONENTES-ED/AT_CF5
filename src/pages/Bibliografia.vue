@@ -23,7 +23,7 @@ export default {
     referencias: [
       {
         referencia:
-          'Agrosavia.co. (n.d.). [Documento PDF]. Recuperado el 16 de junio de 2025, de',
+          'Agrosavia.co. (n.d.). <em>Tecnologías emergentes para el agro y su aplicación en Colombia.</em> [Documento PDF]. Recuperado el 16 de junio de 2025, de',
         link:
           'https://repository.agrosavia.co/bitstream/handle/20.500.12324/38661/Ver_Documento_38661.pdf?sequence=4&isAllowed=y',
       },
@@ -54,7 +54,7 @@ export default {
       },
       {
         referencia:
-          'Edu.ec. (n.d.). Desarrollo de un manual de prácticas para el uso de equipos LoraWan en redes de sensores inalámbricos. [Documento PDF]. Recuperado el 15 de junio de 2025, de',
+          'Edu.ec. (n.d.). <em>Desarrollo de un manual de prácticas para el uso de equipos LoraWan en redes de sensores inalámbricos.</em> [Documento PDF]. Recuperado el 15 de junio de 2025, de',
         link:
           'https://dspace.ups.edu.ec/bitstream/123456789/19349/1/UPS-CT008847.pdf',
       },
@@ -140,10 +140,14 @@ export default {
   computed: {
     orderedData() {
       return [...this.referencias].sort((a, b) => {
-        const afl = this.quitarAcentos(a.referencia.split(' ')[0].toLowerCase())
-        const bfl = this.quitarAcentos(b.referencia.split(' ')[0].toLowerCase())
-        if (afl < bfl) return -1
-        if (afl > bfl) return 1
+        const aTexto = this.limpiarHTML(a.referencia)
+        const bTexto = this.limpiarHTML(b.referencia)
+
+        const aNormal = this.quitarAcentos(aTexto.toLowerCase())
+        const bNormal = this.quitarAcentos(bTexto.toLowerCase())
+
+        if (aNormal < bNormal) return -1
+        if (aNormal > bNormal) return 1
         return 0
       })
     },
@@ -151,6 +155,10 @@ export default {
   methods: {
     quitarAcentos(str) {
       return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    },
+    limpiarHTML(str) {
+      // Elimina cualquier etiqueta HTML para comparar solo texto plano
+      return str.replace(/<\/?[^>]+(>|$)/g, '')
     },
   },
 }

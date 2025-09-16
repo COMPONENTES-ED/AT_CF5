@@ -668,7 +668,7 @@
         <div class="col-lg-4 my-3">
           <a
             class="anexo mb-3"
-            href="https://azure.microsoft.com/es-es/solutions/iot/iot-technology-protocols"
+            href="https://www.tme.eu/es/news/library-articles/page/53063/no-solo-wi-fi-estandares-de-comunicacion-inalambrica-en-iot/"
             target="_blank"
           >
             <div class="anexo__icono">
@@ -676,8 +676,8 @@
             </div>
             <div class="anexo__texto">
               <p>
-                <b>Enlace web.</b> Lectura: Protocolos y tecnologías de IoT:
-                Azure IoT
+                <b>Enlace web.</b> Estándares de comunicación inalámbrica en
+                IoT:
               </p>
             </div></a
           >
